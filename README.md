@@ -12,7 +12,9 @@ ________________________________________________________________________________
 Console Readings:
 
 <img width="587" alt="Console Output" src="https://github.com/anant-ecaps/IoT-Assignment/assets/61697380/41b5c7dc-2a29-49c7-9662-e887328415b9">
+
 ____________________________________________________________________________________________________________________________________________________________________________________
+
 ThingSpeak Dashboard: After collecting hours of sensor data:
 
 <img width="1097" alt="Graph" src="https://github.com/anant-ecaps/IoT-Assignment/assets/61697380/885bceae-51d6-46ca-a69b-30c5eb001e9d">
