@@ -8,6 +8,7 @@ STEPS:
 4. Data Monitoring and Analysis: Published data in the form of payloads to ThingSpeak channel using Paho MQTT library and MQTT Topic. Analysed the data and kept track of sensor readings ensuring successful data publication.
 
 Console Readings:
+
 <img width="587" alt="Console Output" src="https://github.com/anant-ecaps/IoT-Assignment/assets/61697380/41b5c7dc-2a29-49c7-9662-e887328415b9">
 
 ThingSpeak Dashboard: After collecting hours of sensor data:
